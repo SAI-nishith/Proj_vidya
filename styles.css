@@ -1,0 +1,33 @@
+form{
+    border-style:groove;
+    border-block-color: lightblue;
+    border-width: 2px;
+    padding: 30px;
+}
+body{
+  margin: 150px; 
+  border-style: hidden;
+  align-content: 150px;
+}
+h1{
+  margin-left: 138px;
+}
+h4{
+  margin-left: 163px;
+}
+h3{
+  margin-left: 107px;
+}
+#submit{
+  margin-left: 107px;
+}
+#mail{
+  padding-left: 30px;
+}
+#pass{
+  padding-left: 30px;
+}
+#new_acc,#pw{
+  padding-left: 25px;
+  font-size: 12px;
+}
